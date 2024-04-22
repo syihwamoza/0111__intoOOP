@@ -13,3 +13,10 @@ class Mahasiswa{
             cout << "Jurusan:" << jurusan << endl;
         }
 };
+
+
+
+class Matakuliah {
+      private:
+
+};
